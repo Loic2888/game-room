@@ -50,12 +50,11 @@ Run the game
 
 ## Project Structure
 
-esquive/
-├── game # Compiled executable
-├── game.c # Main game logic
-├── game.h # Game header file
-├── main.c # Entry point
-└── README.md # This file
+- `game` - Compiled executable
+- `game.c` - Main game logic
+- `game.h` - Game header file
+- `main.c` - Entry point
+- `README.md` - This file
 
 
 ## Technical Details
